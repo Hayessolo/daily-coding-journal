@@ -1,0 +1,33 @@
+on: 
+  schedule:
+    - cron: '0 0 * * *'   # Runs at midnight UTC daily
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: set up python 
+        uses: actions/setup-python@v4
+        with:
+          python version: '3.10'
+      - name: Create Daily Update 
+        run: |
+           python update_journal.py
+        env: 
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+      - name: commit and push 
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Ation "
+          git add .
+          git commit -m "Daily learning progress update: $(date +%Y-%m-%d)"
+          git push
+
+
+
+
+
+      
