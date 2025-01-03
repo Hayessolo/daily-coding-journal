@@ -9,19 +9,21 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: set up python 
+      - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python version: '3.10'
-      - name: Create Daily Update 
+          python-version: '3.10'
+
+      - name: Create Daily Update
         run: |
-           python update_journal.py
+          python update_journal.py
         env: 
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
-      - name: commit and push 
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and Push
         run: |
           git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Ation "
+          git config --local user.name "GitHub Action"
           git add .
           git commit -m "Daily learning progress update: $(date +%Y-%m-%d)"
           git push
@@ -30,4 +32,3 @@ jobs:
 
 
 
-     
