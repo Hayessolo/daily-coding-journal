@@ -1,3 +1,4 @@
+- +2025-01-05 : Studied Algorithms
 - +2025-01-05 : Studied Design Patterns
 - +2025-01-04 : Studied Web Security
 - +2025-01-03 : Studied Documentation
