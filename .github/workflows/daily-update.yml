@@ -22,8 +22,8 @@ jobs:
 
       - name: Commit and Push
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "solohayes6@gmail.com"
+          git config --local user.name "hayessolo"
           git add .
           git commit -m "Daily learning progress update: $(date +%Y-%m-%d)"
           git push
