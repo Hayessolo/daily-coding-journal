@@ -1,3 +1,4 @@
+- +2025-01-08 : Studied Code Review
 - +2025-01-07 : Studied DevOps
 - +2025-01-06 : Studied Data Structures
 - +2025-01-05 : Studied Design Patterns
