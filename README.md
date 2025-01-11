@@ -1,3 +1,4 @@
+- +2025-01-11 : Studied Design Patterns
 - +2025-01-10 : Studied Documentation
 - +2025-01-09 : Studied Documentation
 - +2025-01-08 : Studied Code Review
