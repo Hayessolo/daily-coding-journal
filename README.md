@@ -1,3 +1,4 @@
+- +2025-01-17 : Studied Web Security
 - +2025-01-16 : Studied Performance Optimization
 - +2025-01-15 : Studied Code Review
 - +2025-01-14 : Studied Documentation
