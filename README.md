@@ -1,3 +1,4 @@
+- +2025-01-21 : Studied Web Security
 - +2025-01-20 : Studied DevOps
 - +2025-01-19 : Studied DevOps
 - +2025-01-18 : Studied Data Structures
