@@ -1,3 +1,4 @@
+- +2025-01-23 : Studied Code Review
 - +2025-01-22 : Studied Documentation
 - +2025-01-21 : Studied Web Security
 - +2025-01-20 : Studied DevOps
