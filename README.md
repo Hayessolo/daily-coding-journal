@@ -1,3 +1,4 @@
+- +2025-01-24 : Studied Testing
 - +2025-01-23 : Studied Code Review
 - +2025-01-22 : Studied Documentation
 - +2025-01-21 : Studied Web Security
