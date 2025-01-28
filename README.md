@@ -1,3 +1,4 @@
+- +2025-01-28 : Studied Documentation
 - +2025-01-27 : Studied Testing
 - +2025-01-26 : Studied Performance Optimization
 - +2025-01-25 : Studied Data Structures
