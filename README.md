@@ -1,3 +1,4 @@
+- +2025-01-31 : Studied Performance Optimization
 - +2025-01-30 : Studied Data Structures
 - +2025-01-29 : Studied Code Review
 - +2025-01-28 : Studied Documentation
