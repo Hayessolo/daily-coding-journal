@@ -1,3 +1,4 @@
+- +2025-02-04 : Studied API Design
 - +2025-02-03 : Studied Testing
 - +2025-02-02 : Studied API Design
 - +2025-02-01 : Studied Performance Optimization
