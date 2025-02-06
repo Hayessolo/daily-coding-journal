@@ -1,3 +1,4 @@
+- +2025-02-06 : Studied DevOps
 - +2025-02-05 : Studied Web Security
 - +2025-02-04 : Studied API Design
 - +2025-02-03 : Studied Testing
