@@ -1,3 +1,4 @@
+- +2025-02-09 : Studied Code Review
 - +2025-02-08 : Studied DevOps
 - +2025-02-07 : Studied Web Security
 - +2025-02-06 : Studied DevOps
