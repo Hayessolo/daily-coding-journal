@@ -1,3 +1,4 @@
+- +2025-02-13 : Studied Performance Optimization
 - +2025-02-12 : Studied Testing
 - +2025-02-11 : Studied Code Review
 - +2025-02-10 : Studied Code Review
