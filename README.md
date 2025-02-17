@@ -1,3 +1,4 @@
+- +2025-02-17 : Studied Performance Optimization
 - +2025-02-16 : Studied Data Structures
 - +2025-02-15 : Studied Code Review
 - +2025-02-14 : Studied API Design
