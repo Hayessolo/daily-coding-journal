@@ -1,3 +1,4 @@
+- +2025-02-19 : Studied Data Structures
 - +2025-02-18 : Studied Algorithms
 - +2025-02-17 : Studied Performance Optimization
 - +2025-02-16 : Studied Data Structures
