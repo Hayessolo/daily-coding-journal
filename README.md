@@ -1,3 +1,4 @@
+- +2025-02-22 : Studied Web Security
 - +2025-02-21 : Studied Performance Optimization
 - +2025-02-20 : Studied Data Structures
 - +2025-02-19 : Studied Data Structures
