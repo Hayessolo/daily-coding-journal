@@ -1,3 +1,4 @@
+- +2025-02-26 : Studied Design Patterns
 - +2025-02-25 : Studied Data Structures
 - +2025-02-24 : Studied Algorithms
 - +2025-02-23 : Studied Algorithms
