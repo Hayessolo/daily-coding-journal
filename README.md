@@ -1,3 +1,4 @@
+- +2025-02-28 : Studied Documentation
 - +2025-02-27 : Studied Documentation
 - +2025-02-26 : Studied Design Patterns
 - +2025-02-25 : Studied Data Structures
