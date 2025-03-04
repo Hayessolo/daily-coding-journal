@@ -1,3 +1,4 @@
+- +2025-03-04 : Studied Data Structures
 - +2025-03-03 : Studied Testing
 - +2025-03-02 : Studied Web Security
 - +2025-03-01 : Studied Data Structures
