@@ -1,3 +1,4 @@
+- +2025-03-08 : Studied Algorithms
 - +2025-03-07 : Studied Algorithms
 - +2025-03-06 : Studied Documentation
 - +2025-03-05 : Studied DevOps
