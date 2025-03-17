@@ -1,3 +1,4 @@
+- +2025-03-17 : Studied Documentation
 - +2025-03-16 : Studied API Design
 - +2025-03-15 : Studied Documentation
 - +2025-03-14 : Studied Code Review
