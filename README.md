@@ -1,3 +1,4 @@
+- +2025-03-21 : Studied Algorithms
 - +2025-03-20 : Studied Data Structures
 - +2025-03-19 : Studied Web Security
 - +2025-03-18 : Studied Documentation
