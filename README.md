@@ -1,3 +1,4 @@
+- +2025-03-24 : Studied Design Patterns
 - +2025-03-23 : Studied Web Security
 - +2025-03-22 : Studied Web Security
 - +2025-03-21 : Studied Algorithms
