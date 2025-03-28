@@ -1,3 +1,4 @@
+- +2025-03-28 : Studied Performance Optimization
 - +2025-03-25 : Studied API Design
 - +2025-03-24 : Studied Design Patterns
 - +2025-03-23 : Studied Web Security
