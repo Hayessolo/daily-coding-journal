@@ -1,3 +1,4 @@
+- +2025-03-30 : Studied API Design
 - +2025-03-29 : Studied Documentation
 - +2025-03-28 : Studied Performance Optimization
 - +2025-03-25 : Studied API Design
