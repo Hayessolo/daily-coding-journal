@@ -1,3 +1,4 @@
+- +2025-04-01 : Studied DevOps
 - +2025-03-31 : Studied Data Structures
 - +2025-03-30 : Studied API Design
 - +2025-03-29 : Studied Documentation
