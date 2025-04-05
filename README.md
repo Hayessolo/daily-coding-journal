@@ -1,3 +1,4 @@
+- +2025-04-05 : Studied Web Security
 - +2025-04-04 : Studied Web Security
 - +2025-04-03 : Studied Testing
 - +2025-04-02 : Studied DevOps
