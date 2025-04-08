@@ -1,3 +1,4 @@
+- +2025-04-08 : Studied API Design
 - +2025-04-07 : Studied Web Security
 - +2025-04-06 : Studied Documentation
 - +2025-04-05 : Studied Web Security
