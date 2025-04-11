@@ -1,3 +1,4 @@
+- +2025-04-11 : Studied Documentation
 - +2025-04-10 : Studied DevOps
 - +2025-04-09 : Studied Documentation
 - +2025-04-08 : Studied API Design
