@@ -1,3 +1,4 @@
+- +2025-04-14 : Studied DevOps
 - +2025-04-13 : Studied Documentation
 - +2025-04-12 : Studied Web Security
 - +2025-04-11 : Studied Documentation
