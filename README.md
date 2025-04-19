@@ -1,3 +1,4 @@
+- +2025-04-19 : Studied DevOps
 - +2025-04-18 : Studied Documentation
 - +2025-04-17 : Studied Documentation
 - +2025-04-16 : Studied Performance Optimization
