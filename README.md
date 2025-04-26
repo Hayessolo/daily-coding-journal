@@ -1,3 +1,4 @@
+- +2025-04-26 : Studied API Design
 - +2025-04-25 : Studied Algorithms
 - +2025-04-24 : Studied Data Structures
 - +2025-04-23 : Studied Documentation
