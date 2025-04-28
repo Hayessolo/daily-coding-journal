@@ -1,3 +1,4 @@
+- +2025-04-28 : Studied Performance Optimization
 - +2025-04-27 : Studied Data Structures
 - +2025-04-26 : Studied API Design
 - +2025-04-25 : Studied Algorithms
