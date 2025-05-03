@@ -1,3 +1,4 @@
+- +2025-05-03 : Studied Web Security
 - +2025-05-02 : Studied API Design
 - +2025-05-01 : Studied Testing
 - +2025-04-30 : Studied Design Patterns
