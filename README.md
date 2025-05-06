@@ -1,3 +1,4 @@
+- +2025-05-06 : Studied Web Security
 - +2025-05-05 : Studied DevOps
 - +2025-05-05 : Studied Data Structures
 - +2025-05-04 : Studied Code Review
