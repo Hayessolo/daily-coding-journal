@@ -1,3 +1,4 @@
+- +2025-05-23 : Studied Design Patterns
 - +2025-05-20 : Studied Performance Optimization
 - +2025-05-16 : Studied Code Review
 - +2025-05-13 : Studied Web Security
