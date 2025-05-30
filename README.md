@@ -1,3 +1,4 @@
+- +2025-05-30 : Studied Data Structures
 - +2025-05-27 : Studied Testing
 - +2025-05-23 : Studied Design Patterns
 - +2025-05-20 : Studied Performance Optimization
