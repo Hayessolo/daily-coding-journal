@@ -1,3 +1,4 @@
+- +2025-06-03 : Studied API Design
 - +2025-05-30 : Studied Data Structures
 - +2025-05-27 : Studied Testing
 - +2025-05-23 : Studied Design Patterns
