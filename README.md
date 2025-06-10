@@ -1,3 +1,4 @@
+- +2025-06-10 : Studied DevOps
 - +2025-06-06 : Studied Web Security
 - +2025-06-03 : Studied API Design
 - +2025-05-30 : Studied Data Structures
