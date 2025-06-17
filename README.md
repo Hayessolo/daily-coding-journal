@@ -1,3 +1,4 @@
+- +2025-06-17 : Studied Algorithms
 - +2025-06-13 : Studied API Design
 - +2025-06-10 : Studied DevOps
 - +2025-06-06 : Studied Web Security
