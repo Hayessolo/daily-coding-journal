@@ -1,3 +1,4 @@
+- +2025-07-03 : Studied Documentation
 - +2025-06-26 : Studied Algorithms
 - +2025-06-20 : Studied Documentation
 - +2025-06-17 : Studied Algorithms
